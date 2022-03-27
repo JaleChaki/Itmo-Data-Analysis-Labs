@@ -1,0 +1,5 @@
+# exclude large dataset files
+*.csv
+
+# exclude Jupyter Notebook folders
+.ipynb_checkpoints/
